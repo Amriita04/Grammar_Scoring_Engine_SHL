@@ -17,7 +17,7 @@ It was developed as part of the SHL AI/ML assessment.
 6. Format predictions to match `sample_submission.csv`.
 
 ## Files in Repository
-- `notebook.ipynb` → End-to-end training + prediction pipeline.
+- `Grammar_Scoring_engine.ipynb` → End-to-end training + prediction pipeline.
 - `dataset/train.csv` → Training metadata.
 - `dataset/test.csv` → Test metadata.
 - `dataset/sample_submission.csv` → Template for submission.
